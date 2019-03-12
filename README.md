@@ -1,2 +1,2 @@
-# github-example
-example test
+# Cousera_capstone
+This notebook will be mainly used for the capstone project.
